@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Yoga App"
+rootProject.name = "Yoga Hub"
 include(":app")
  
